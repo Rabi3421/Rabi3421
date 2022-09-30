@@ -13,7 +13,7 @@
 - 👨‍💻 All of my projects are available at [https://portfolio-rabi.netlify.app/](https://portfolio-rabi.netlify.app/)
 - 👨‍💻 You can connect with me on Linkedin [https://www.linkedin.com/in/rabinarayan-pradhan-14ab9422b/](https://www.linkedin.com/in/rabinarayan-pradhan-14ab9422b/)
 
-- 💬 Ask me about **Java Script, React**
+- 💬 Ask me about **Java Script, React, nodeJs, MongoDB**
 
 - 📫 How to reach me **rabinarayan3421@gmail.com**
 
